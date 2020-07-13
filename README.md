@@ -1,2 +1,2 @@
 # Predictive-Maintenance
-Predictive Maintanence Project For Failure Prediction
+Predictive Maintanence modelling projects for failure prediction of Remaining Useful Lifetime and Anomaly Detection.
